@@ -1,6 +1,19 @@
 # quizapp
 
-A new Flutter project.
+Quiz app(Flutter Based App) is for
+checking the preparation of Exam.
+In home screen we have a Button to
+Start the quiz when click on the
+button quiz start and when the user
+select the answer Next question
+appear on the screen when last
+question attempts final result
+appears on the screen that shows
+the total marks you get and also
+shows which question you
+attempted right and which is
+selected wrong.
+
 
 ## Getting Started
 
